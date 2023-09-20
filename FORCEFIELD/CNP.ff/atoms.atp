@@ -1,0 +1,14 @@
+CN 12.01100 ;Carbon triple bond to Nitrogen
+C 12.01100 ;Carbon on benzene
+CT 12.01100 ;Carbon bond to CN
+CC 12.01100 ;Carbon connect to pyrine
+H 1.00800 ;any hydrogen 
+NC 14.00670 ;Nitrogen triple bond to Carbon
+CB 12.01100 ;Carbon next to nitrogen and connect to benzene
+NB 14.00670 ;Nitrogen on benzene
+CZ 12.01100 ;carbon connect to carbazole
+CBC 12.01100 ;carbon on cabazole connect to pyrine
+CP 12.01100 ;carbon on cabazole bond to benzene
+BN 12.01100 ;carbon on cabazole bond to N
+NCB 14.00670 ;nitrogen on cabazole
+CBZ 12.01100 ;carbon on benzene connect to cabazole
